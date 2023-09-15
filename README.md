@@ -7,6 +7,15 @@ With the use of natural language processing (NLP) methods, this project intends 
 
 
 
+![1_1Mj8kLQMUpf6OAJ3IOPN4w](https://github.com/Santhoshstark06/Resume_Extractor/assets/58947968/f56b09ee-645a-4602-ada7-556af0cd8b34)
+
+
+
+
+
+
+
+
 ## Task 1
 
 
