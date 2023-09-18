@@ -1,1 +1,1 @@
-
+This project makes a variety of job descriptions easily accessible to scholars, data scientists, and NLP practitioners so they can deal with actual employment-related text data. It does this by utilising the Hugging Face datasets collection. A deeper knowledge of the labour market and employment patterns may be achieved by using the extracted job descriptions as useful input for a variety of applications, such as text analysis, information retrieval, and machine learning model training.
